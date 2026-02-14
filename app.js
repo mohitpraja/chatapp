@@ -23,4 +23,4 @@ io.on('connection', function (socket) {
 });
 
 server.listen(port);
-console.log(`http://192.168.11.150:${port}`) 
+console.log(`http://localhost:${port}`) 
